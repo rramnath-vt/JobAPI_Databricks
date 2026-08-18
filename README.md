@@ -15,6 +15,12 @@ This is an end-to-end data engineering project that was developed using Databric
 <img width="1416" height="574" alt="image" src="https://github.com/user-attachments/assets/87678fe8-b369-4e57-b652-eb45256cca36" />
 We can also create some alerts if the pipeline fails.
 
+# Serving Layer
+
+The data can be then used to create Dashboards
+<img width="2408" height="1490" alt="image" src="https://github.com/user-attachments/assets/68174170-599f-4da7-981e-b95024c311ff" />
+
+
 # Tools used
 
 (i) Job API: https://api.joinrise.io/api/v1/jobs/
