@@ -15,7 +15,12 @@ This is an end-to-end data engineering project that was developed using Databric
 <img width="1416" height="574" alt="image" src="https://github.com/user-attachments/assets/87678fe8-b369-4e57-b652-eb45256cca36" />
 We can also create some alerts if the pipeline fails.
 
+# Tools used
 
+(i) Job API: https://api.joinrise.io/api/v1/jobs/
+(ii) JSON Storage: Databricks Managed Volumes
+(iii) Data Warehousing into fact table and Dimension tables using Spark Declarative Pipeline
+(iv) Job scheduler: Databricks job scheduler(Notebook task to fetch data from API) and ETL Pipeline
 
 
 
