@@ -26,6 +26,11 @@ The job is scheduled to run at 17:00 Central Time everyday to gather the job det
 The data can be then used to create Dashboards
 <img width="2408" height="1490" alt="image" src="https://github.com/user-attachments/assets/68174170-599f-4da7-981e-b95024c311ff" />
 
+# AI Integration
+
+<img width="1666" height="1320" alt="image" src="https://github.com/user-attachments/assets/629abc5a-e278-4fe2-9141-b28d4ca0ce8f" />
+Created an AI agent using LangChain to analyze the Databricks table and generate results using natural language. Model used - Gemini 3.5 Flash
+
 
 # Tools used
 
